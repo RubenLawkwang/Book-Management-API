@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <library>
+    <book>
+      <item>
+        <title>Death Notes</title>
+        <author>Natasha Sparks</author>
+        <genre>Thriller</genre>
+        <price>500</price>
+        <quantity>55</quantity>
+      </item>
+      <item>
+        <title>The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <genre>Fiction</genre>
+        <price>312.2</price>
+        <quantity>30</quantity>
+      </item>
+      <item>
+        <title>Harry Potter and Stone</title>
+        <author>J.K Rowling</author>
+        <genre>Fantasy</genre>
+        <price>789.5</price>
+        <quantity>30</quantity>
+      </item>
+      <item>
+        <title>To Kill a Mockingbird</title>
+        <author>Jonathan James</author>
+        <genre>Romance</genre>
+        <price>665.96</price>
+        <quantity>67</quantity>
+      </item>
+      <item>
+        <title>The Great Gatsby</title>
+        <author>Gerad Tolkien</author>
+        <genre>Fantasy</genre>
+        <price>1000</price>
+        <quantity>45</quantity>
+      </item>
+      <item>
+        <title>War and Peace</title>
+        <author>Andy Weir</author>
+        <genre>Fiction</genre>
+        <price>400</price>
+        <quantity>100</quantity>
+      </item>
+      <item>
+        <title>Slow and Fast Thinking</title>
+        <author>Daniel Dani</author>
+        <genre>Reflection</genre>
+        <price>800</price>
+        <quantity>85</quantity>
+      </item>
+      <item>
+        <title>Moby-Dick</title>
+        <author>Carol S. Dweck</author>
+        <genre>Fantasy</genre>
+        <price>600</price>
+        <quantity>10</quantity>
+      </item>
+      <item>
+        <title>The Art of War</title>
+        <author>Robert T. Kiyosaki</author>
+        <genre>Mindset</genre>
+        <price>609</price>
+        <quantity>50</quantity>
+      </item>
+      <item>
+        <title>Not Becoming</title>
+        <author>Martin Luther King</author>
+        <genre>Memoir</genre>
+        <price>900</price>
+        <quantity>70</quantity>
+      </item>
+      <item>
+        <title>Barbie</title>
+        <author>Ken</author>
+        <genre>Romance</genre>
+        <price>800</price>
+        <quantity>79</quantity>
+      </item>
+    </book>
+  </library>
+</books>

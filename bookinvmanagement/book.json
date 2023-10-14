@@ -1,0 +1,83 @@
+{
+    "library": {
+        "book": [
+            {
+                "title": "Death Notes",
+                "author": "Natasha Sparks",
+                "genre": "Thriller",
+                "price": "600",
+                "quantity": "55"
+            },
+            {
+                "title": "The Alchemist",
+                "author": "Paulo Coelho",
+                "genre": "Fiction",
+                "price": 312.2,
+                "quantity": 30
+            },
+            {
+                "title": "Harry Potter and Stone",
+                "author": "J.K Rowling",
+                "genre": "Fantasy",
+                "price": 789.5,
+                "quantity": 30
+            },
+            {
+                "title": "To Kill a Mockingbird",
+                "author": "Jonathan James",
+                "genre": "Romance",
+                "price": 665.96,
+                "quantity": 67
+            },
+            {
+                "title": "The Great Gatsby",
+                "author": "Gerad Tolkien",
+                "genre": "Fantasy",
+                "price": 1000,
+                "quantity": 45
+            },
+            {
+                "title": "War and Peace",
+                "author": "Andy Weir",
+                "genre": "Fiction",
+                "price": 400,
+                "quantity": 100
+            },
+            {
+                "title": "Slow and Fast Thinking",
+                "author": "Daniel Dani",
+                "genre": "Reflection",
+                "price": 800,
+                "quantity": 85
+            },
+            {
+                "title": "Moby-Dick",
+                "author": "Carol S. Dweck",
+                "genre": "Fantasy",
+                "price": 600,
+                "quantity": 10
+            },
+            {
+                "title": "The Art of War",
+                "author": "Robert T. Kiyosaki",
+                "genre": "Mindset",
+                "price": 609,
+                "quantity": 50
+            },
+            {
+                "title": "Not Becoming",
+                "author": "Martin Luther King",
+                "genre": "Memoir",
+                "price": 900,
+                "quantity": 70
+            },
+            {
+                "title": "Barbie",
+                "author": "Ken",
+                "genre": "Romance",
+                "price": "1000",
+                "quantity": "79"
+            }
+        ]
+    }
+}
